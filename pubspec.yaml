@@ -1,0 +1,7 @@
+name: dn_util
+description: >
+  utility classes and functions for dart language.
+dependencies:
+  unittest:
+    sdk: unittest
+    
